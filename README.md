@@ -3,7 +3,7 @@
 ## 📊 BBL 514E - Deep Learning (Spring 2025)
 
 ### 👥 Team Members
-- **Esra Durnaoğlu** - Model Development & Implementation
+- **Esra Derin Tetik** - Model Development & Implementation
 - **[Team Member 2]** - Data Preprocessing & Analysis
 - **[Team Member 3]** - Evaluation & Visualization
 

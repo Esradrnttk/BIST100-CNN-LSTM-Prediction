@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # BIST 100 CNN-LSTM Stock Price Prediction
-# Author: Esra Durnaoğlu
+# Author: Esra Derin Tetik
 
 import os
 import numpy as np

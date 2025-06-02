@@ -3,7 +3,7 @@
 """
 BIST 100 CNN-LSTM Hisse Senedi Tahmin Modeli
 =============================================
-Author: Esra Durnaoğlu (tetik24@itu.edu.tr)
+Author: Esra Derin Tetik (tetik24@itu.edu.tr)
 Course: BBL 514E - Deep Learning (Spring 2025)
 Advisor: Prof. Dr. Behçet Uğur Töreyin
 
