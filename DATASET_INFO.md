@@ -20,7 +20,7 @@ The complete dataset used in this project is stored in Google Drive due to size 
 ## Access Information
 
 For academic purposes, the dataset can be requested by contacting:
-- Email: esra.durnaoglu@itu.edu.tr
+- Email: tetik24@itu.edu.tr
 - Subject: BIST100 CNN-LSTM Dataset Request
 
 ## Data Sources
